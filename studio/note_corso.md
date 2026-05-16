@@ -5,6 +5,7 @@ In questo file verranno raccolti tutti gli appunti, i comandi e le riflessioni d
 ## Diario di Bordo
 
 ### Comandi Utili
+- `npx create-next-app@latest`: Crea una nuova applicazione Next.js.
 - `npm run dev`: Avvia il server di sviluppo locale.
 
 ---
